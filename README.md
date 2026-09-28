@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Peter 👋</h1>
+<h1 align="center">Hi, I'm Pieter Jhon👋</h1>
 
 <p align="center">
   Student developer who enjoys databases, backend systems, and building things that actually work.
@@ -19,7 +19,7 @@
 - 👯 Open to collaborating on student projects and open-source
 - 💬 Ask me about: SQL, schema design, ER diagrams
 - 📫 Reach me: [your email or LinkedIn here]
-- ⚡ Fun fact: [add something fun here]
+- ⚡ Fun fact: I can make it happen
 
 ## 🛠️ Tech Stack
 
