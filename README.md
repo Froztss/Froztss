@@ -46,9 +46,9 @@
 
 ## 📫 Connect
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- GitHub: [@Froztss](https://github.com/Froztss)
+- LinkedIn: [Pieter Jhon Pabilando](https://www.linkedin.com/in/pieter-jhon-pabilando-7362a243b/)
+- Email: peterjhon.pabilando@protonmail.com
 
 ---
 
