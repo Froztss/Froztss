@@ -1,25 +1,18 @@
-# Yo, I'm Pieter 👋
+<div align="center">
 
-> Aspiring game developer. I build small games, learn by shipping, and love how databases and systems power what players see.
+# Hi, I'm Pieter 👋
+
+![Orbital Breach: animated sci-fi gameplay](./scifi-gameplay.svg)
+
+**Aspiring game developer.** I build small games, learn by shipping, and love how databases and systems power what players see.
+
+</div>
 
 ## 🎮 Game Dev Journey
 
 - Building my first **web game** with HTML, CSS, and JavaScript
 - Learning core game dev concepts: game loop, collision, input handling, scoring, and state
 - Goal: grow from simple browser games into larger projects with game engines (Godot / Unity)
-
-## 🕹️ Featured Project
-
-### [Your Game Name] 🚧 *In progress*
-A simple browser game built with HTML & CSS.
-
-- **Play:** [Live demo](https://YOUR_USERNAME.github.io/YOUR_REPO)
-- **Code:** [Source](https://github.com/YOUR_USERNAME/YOUR_REPO)
-- **Features:** (edit these)
-  - [ ] Player movement
-  - [ ] Score system
-  - [ ] Win / lose screen
-  - [ ] Sound & animations
 
 ## 🚀 Other Projects
 
@@ -42,7 +35,7 @@ A simple browser game built with HTML & CSS.
 
 - 🔨 Building: my first web game
 - 📚 Learning: JavaScript game loops, CSS animation, sprite handling
-- 🎯 Next: add a leaderboard using a database (combining games + SQL!)
+- 🎯 Next: add a leaderboard using a database (games + SQL!)
 
 ## ✅ How I Work
 
