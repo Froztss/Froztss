@@ -1,4 +1,4 @@
-# Hi, I'm Peter 👋
+# Yo, I'm Pieter 👋
 
 > Aspiring game developer. I build small games, learn by shipping, and love how databases and systems power what players see.
 
